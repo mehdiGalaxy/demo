@@ -1,7 +1,7 @@
 {
   "patients": [
     {
-      "id": 3,
+      "id": 1,
       "firstName": "El Mehdi",
       "lastName": "El Hamdi",
       "email": "mehdi7d0@gmail.com",
@@ -9,7 +9,7 @@
       "date": "12-10-2000"
     },
     {
-      "id": 3,
+      "id": 2,
       "firstName": "Fadma",
       "lastName": "El Abdellaoui",
       "email": "fadmaAbdellaoui@gmail.com",
